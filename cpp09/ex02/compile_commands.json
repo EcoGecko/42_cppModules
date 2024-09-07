@@ -1,0 +1,36 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c++98",
+      "-pedantic",
+      "-c",
+      "-o",
+      "main.o",
+      "main.cpp"
+    ],
+    "directory": "/home/heda-sil/Desktop/Cursus/cppModules/cpp09/ex02",
+    "file": "/home/heda-sil/Desktop/Cursus/cppModules/cpp09/ex02/main.cpp",
+    "output": "/home/heda-sil/Desktop/Cursus/cppModules/cpp09/ex02/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c++98",
+      "-pedantic",
+      "-c",
+      "-o",
+      "PmergeMe.o",
+      "PmergeMe.cpp"
+    ],
+    "directory": "/home/heda-sil/Desktop/Cursus/cppModules/cpp09/ex02",
+    "file": "/home/heda-sil/Desktop/Cursus/cppModules/cpp09/ex02/PmergeMe.cpp",
+    "output": "/home/heda-sil/Desktop/Cursus/cppModules/cpp09/ex02/PmergeMe.o"
+  }
+]
